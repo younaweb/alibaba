@@ -60,6 +60,7 @@
               right-0
               w-max
               shadow-sm
+              z-10
             "
           >
             <p class="pb-2 text-sm mx-3">Welcome to AliExpress !</p>
